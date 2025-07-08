@@ -279,6 +279,7 @@
       <AdditionalDependencies>
       </AdditionalDependencies>
       <AdditionalOptions>%(AdditionalOptions)  /machine:x64</AdditionalOptions>
+      <LinkTimeCodeGeneration>true</LinkTimeCodeGeneration>
     </Lib>
     <Bscmake>
       <PreserveSbr>true</PreserveSbr>
